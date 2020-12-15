@@ -1,1 +1,1 @@
-## Tesla clone using React Native
+# Tesla clone using React Native
